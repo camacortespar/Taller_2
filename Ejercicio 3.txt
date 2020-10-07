@@ -1,0 +1,8 @@
+3.
+
+Caso Reco p_{T}: Se logra observar que para p_{T} entre los (19-30) GeV, aproximadamente, hay bastante pile up interfiriendo en la medición, afectando desde 
+		15 NPV hasta 50 NPV.
+
+Caso Truth p_{T}: En cambio, en este caso, para p_{T} entre los (15-25) GeV, aproximadamente, hay afectación del pile up; sin embargo, esta presenta un interferencia
+		menor (comparado con el caso Reco) variando entre los 5 NPV y 15 NPV. Aunque, en el histograma de perfil se alcanza a detectar afectación hasta los
+		50 NPV hay un número de eventos casi despreciables que presentan esta situación. 
