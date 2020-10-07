@@ -1,0 +1,3 @@
+8. En ambas comparaciones (p_{T} y m) se observa que para cada caso (Reco y Truth) hay deplazamiento de datos para las variables "Trimmed". Esto ocurre debido a que
+dichas variables son reconstrucciones de "Large-R jets" con Trimming, es decir, con una limpieza en los datos dentro del cono de radio R que forman los jets, haciendo
+así un refinamiento en los datos.
