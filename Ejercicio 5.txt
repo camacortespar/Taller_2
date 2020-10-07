@@ -1,0 +1,2 @@
+5. Se aprecia que los "Track-jets" son bastante estables en el pile up, pues sigue una curva similar a los "Truth-jets", salvo alguna filtración de trazas
+en p_{T}=112 GeV aproximadamente.
